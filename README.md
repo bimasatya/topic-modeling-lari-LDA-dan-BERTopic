@@ -19,3 +19,10 @@ Data diambil dari platform X/Twitter periode Desember 2024 – Desember 2025 men
 
 ## Author
 Aryasatya Bimakara
+
+## Source Code
+
+- LDA_TA.ipynb : Implementasi Latent Dirichlet Allocation (LDA)
+- BERTOPIC_TA.ipynb : Implementasi BERTopic
+
+Notebook dapat diunduh langsung dari repository dan dijalankan menggunakan Google Colab atau Jupyter Notebook.
